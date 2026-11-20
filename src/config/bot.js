@@ -205,8 +205,8 @@ export const botConfig = {
   // SHOP SETTINGS
   // =========================
   // Add shop defaults here when needed.
-  shop: {
-
+  shop: {Phone}, {AppleWatch}, {Gun}, {EarlierAccess}
+  
   },
 
   // =========================
